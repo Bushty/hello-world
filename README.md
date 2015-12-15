@@ -1,3 +1,3 @@
 # hello-world
 1sttry
-im bushty.
+im not gandalf
